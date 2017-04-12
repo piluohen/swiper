@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+    height: auto;
+}
+.swiper-container {
+    margin: 50px auto;
+    width: 600px;
+    /*height: 337.5px;*/
+} 
+.swiper-container img{
+    width: 100%;
+    height: auto;
+}
